@@ -1,0 +1,1 @@
+podman login -u='ocloud+ocloud_robot' -p='RDG0U4GA9RCJQ3YMJXYQCBJJJ29N2R1CTPCT4F0S4RSX644DULHJBWFZPDPGW6YY' mtr.devops.telekom.de
